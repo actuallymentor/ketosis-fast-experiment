@@ -1,0 +1,16 @@
+{ 
+	"protocol": "",
+	"participants": [
+		{
+			"name": "Mentor Palokaj",
+			"github": "actuallymentor",
+			"measurements": [
+				{
+					"timestamp": "mm-hh-dd-mm-yyyy",
+					"bhb": "",
+					"glucose": ""
+				}
+			]
+		}
+	]
+}
