@@ -28,6 +28,7 @@ Rationale: having a baseline fasted measurement and a measurement in the digesti
 
 Consumption:
 
+- 2 grams of keltic seasalt upon waking and more as desired
 - 20g MCT 1 hour after waking (after fasted HB measurement)
 - 20g MCT 3 hours after waking
 - 20g MCT 5h after waking (1h before second measurement)
@@ -38,6 +39,11 @@ Consumption:
 Rationale: a maximum total of 1000 kCal a day as prescribed by doctor Longo's fast mimicking diet approach comes down to about 111 grams of our C8 MCT.
 
 No significant calories will be consumed from any source other than C8 medium chain triglyceride oil.
+
+Activity:
+
+- On day one a one hour moderate exercise (3-5 [metabolic equivalent \(MET\)](https://epi.grants.cancer.gov/atus-met/met.php)]) session is done to facilitate glycogen depletion.
+- Normal daily activity is presumed, no strenuous workouts (5+ MET) are done for the duration of the experiment.
 
 ## Non-caloric consumption
 

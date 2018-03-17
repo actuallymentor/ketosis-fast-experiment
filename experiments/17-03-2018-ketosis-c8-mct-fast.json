@@ -6,11 +6,12 @@
 			"github": "actuallymentor",
 			"measurements": [
 				{
-					"timestamp": "mm-hh-dd-mm-yyyy",
+					"fasted-hours": "hours",
 					"bhb": "",
 					"glucose": ""
 				}
-			]
+			],
+			"notes": ""
 		}
 	]
 }
